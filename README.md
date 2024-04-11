@@ -4,7 +4,7 @@
 3. Predictive Question
 4. Variables
 
-## 1. This repository
+#### 1. This repository
 
 This repository will explore the relationship between a company's financial performance and Involuntary CEO Dismissal. The first stage of the project is to build a custom dataset that will track the financial performance of the S&P 500 companies including adjusted close and trading volume this information will be acquired from finance -- Python library for accessing and downloading financial data from Yahoo Finance. After downloading the financial data for all 500 companies in the S&P 500 index we will create a longitudinal panel dataset that will track each company's financial performance, its industry, sub-industry, and the CEO dismissal. The last stage of the project will focus on predicting the CEO's dismissal based on available financial information. 
 Navigating this repository is quite easy since it is divided into 2 main folders. Folder 1 contains Jupyter Notebooks with all the codes. The second folder contains relevant datasets. 
@@ -13,7 +13,7 @@ The primary goal of this project is to predict CEO dismissal in S&P 500 companie
 #### 3. Predictive question: 
 1. How can we use historical financial data and CEO turnover events at Apple Inc. to predict the likelihood of involuntary CEO dismissals in the future?"
 
-### 4. Variables
+#### 4. Variables
 
 |  | Variables |
 | ------------- | ------------- |
